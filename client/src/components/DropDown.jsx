@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import Image from "react-bootstrap/Image";
 
-import Robin from "../assets/images/robin.jpeg";
+import Robin from "../assets/images/robin.jpg";
 import Profile from "../assets/images/user2.png";
 import Cabin from "../assets/images/cabin.png";
 import Calender from "../assets/images/calendar.png";
